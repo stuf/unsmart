@@ -1,7 +1,7 @@
 {
   "name": "@unsmart/dev-wsserver",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Webpack mock server for development",
   "main": "index.js",
   "bin": {
     "unsmart-wsserver": "./bin/server.js"

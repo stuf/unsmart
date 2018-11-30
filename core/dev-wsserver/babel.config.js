@@ -5,6 +5,7 @@ module.exports = exports = {
       {
         useBuiltIns: 'usage',
         targets: {
+          browser: true,
           node: true,
         },
         debug: true,

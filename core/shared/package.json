@@ -1,7 +1,7 @@
 {
   "name": "@unsmart/shared",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Shared functional utilities",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel lib/ -d dist/ --source-maps --ignore **/__tests__/*"
